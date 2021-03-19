@@ -10,3 +10,4 @@ RISE
 deap
 notebook
 torch
+torchvision
