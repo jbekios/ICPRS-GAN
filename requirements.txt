@@ -9,4 +9,4 @@ seaborn
 RISE
 deap
 notebook
-pytorch
+torch
